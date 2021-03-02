@@ -6,7 +6,12 @@
       "contributor-guide",
       "committer-guide",
       "2fa",
-      "release-guide"
+      "release-guide",
+      {
+        "Something missing?": [
+          "href='FC25D.pdf'"
+        ]
+      }
     ]
   }
 }
